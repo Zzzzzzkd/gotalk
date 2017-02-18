@@ -1,7 +1,7 @@
 package gotalk
 
 import (
-  "golang.org/x/net/websocket"
+  "github.com/gorilla/websocket"
   "github.com/rsms/gotalk/js"
   "fmt"
   "net/http"
